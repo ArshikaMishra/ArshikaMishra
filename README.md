@@ -13,7 +13,7 @@
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **HTML/CSS/JS**
+- 💬 Ask me about **HTML/CSS/JS/React**
 
 - 📫 How to reach me **arshikamishra1205@gmail.com**
 
